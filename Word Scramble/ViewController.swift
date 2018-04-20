@@ -2,13 +2,10 @@
 //  ViewController.swift
 //  Word Scramble
 //
-//  Created by Forrest Parker on 4/20/18.
-//  Copyright © 2018 Forrest Parker. All rights reserved.
-//
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
